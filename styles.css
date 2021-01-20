@@ -1,19 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Domine&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 
 :root {
-    --primary: #FCD34D;     
+    --primary:#A5B4FC;     
 }
 
 body {
     margin: 0;
-    font-family: 'Domine', serif;    
+    font-family: 'Noto Sans JP', sans-serif;    
 }
 
 img {
     width: 5em;
     height: 5em;
     border-radius: 50%;
-    float: left;
+    float: left;   
+    margin: 0; 
+    padding: 0.5rem;
 }
 
 header {
